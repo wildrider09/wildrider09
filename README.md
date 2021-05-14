@@ -1,13 +1,13 @@
 ## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 <h1 align="center">Hi 👋, I'm Abhishek Garg</h1>
-<h3 align="center">"Hello, I'm a student at IIIT Bangalore pursuing a master's degree."</h3>
+<h3 align="center">"I'm a student at IIIT Bangalore pursuing a master's degree."</h3>
 
 ### Wanna stalk my website:question::point_right: [Click Here](https://wildrider09.github.io/):sparkles:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wildrider09&label=Profile%20views&color=0e75b6&style=flat" alt="wildrider09" /> </p>
 
-- 🌱 I’m currently learning about **AWS and Apache Spark**
+- 🌱 I’m currently learning about **Full stack Dev-ops and Machine Learning**
 
 - 👨‍💻 All about myself is available at [My Website](https://wildrider09.github.io/)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ram101997@gmail.com**
 
-- 📄 Know about my experiences [My Resume]()
+- 📄 Know about my experiences [My Resume](https://drive.google.com/drive/folders/12zvMDZoFN92A7rVnzZdWpKu04vgFXFKE?usp=sharing)
 
 ### What are my featured projects:question::rocket:
 <code>[Google Store Analytics](https://github.com/wildrider09/Google-Analytics-Revenue-Preditcion)</code>:hourglass:     
@@ -25,7 +25,7 @@
 
 
 ### What can I help with:question::cyclone:
-<code"Pretty much nerd stuffs and Math!"</code> :grin:
+<code>"Pretty much nerd stuffs and Math!"</code> :grin:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
