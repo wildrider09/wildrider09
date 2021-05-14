@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Garg</h1>
 <h3 align="center">"I'm a student at IIIT Bangalore pursuing a master's degree."</h3>
 
-### Wanna stalk my website:question::point_right: [Click Here](https://wildrider09.github.io/):sparkles:
+### Wanna stalk my website:question::point_right: <a href="https://wildrider09.github.io" target="_blank" rel="noopener noreferrer">Click HERE </a> :sparkles:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wildrider09&label=Profile%20views&color=0e75b6&style=flat" alt="wildrider09" /> </p>
 
