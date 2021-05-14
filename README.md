@@ -1,13 +1,13 @@
 ## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-<h1 align="center">Hi 👋, I'm Chandrika Deb</h1>
-<h3 align="center">git commit -m "Hello, I'm a Software Engineering Associate at Amdocs"</h3>
+<h1 align="center">Hi 👋, I'm Abhishek Garg Deb</h1>
+<h3 align="center">"Hello, I'm a student at IIIT Bangalore pursuing a master's degree."</h3>
 
-### Wanna stalk my website:question::point_right: [Click Here](https://chandrikadeb7.github.io/):sparkles:
+### Wanna stalk my website:question::point_right: [Click Here](https://wildrider09.github.io/):sparkles:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrikadeb7&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikadeb7" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandrikadeb7" alt="chandrikadeb7" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wildrider09" alt="wildrider09" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/chandrikadeb7" target="blank"><img src="https://img.shields.io/twitter/follow/chandrikadeb7?logo=twitter&style=for-the-badge" alt="chandrikadeb7" /></a> </p>
 
