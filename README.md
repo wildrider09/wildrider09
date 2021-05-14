@@ -1,52 +1,37 @@
 ## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-<h1 align="center">Hi 👋, I'm Abhishek Garg Deb</h1>
+<h1 align="center">Hi 👋, I'm Abhishek Garg</h1>
 <h3 align="center">"Hello, I'm a student at IIIT Bangalore pursuing a master's degree."</h3>
 
 ### Wanna stalk my website:question::point_right: [Click Here](https://wildrider09.github.io/):sparkles:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrikadeb7&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikadeb7" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wildrider09" alt="wildrider09" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/chandrikadeb7" target="blank"><img src="https://img.shields.io/twitter/follow/chandrikadeb7?logo=twitter&style=for-the-badge" alt="chandrikadeb7" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wildrider09&label=Profile%20views&color=0e75b6&style=flat" alt="wildrider09" /> </p>
 
 - 🌱 I’m currently learning about **AWS and Apache Spark**
 
-- 👨‍💻 All about myself is available at [My Website](https://chandrikadeb7.github.io/)
-
-- 📝 I seldom write articles on [Medium](https://chandrikadeb7.medium.com/)
+- 👨‍💻 All about myself is available at [My Website](https://wildrider09.github.io/)
 
 - 💬 Ask me about **Java, Python, EDA, ML**
 
-- 📫 How to reach me **chandrikadeb7@gmail.com**
+- 📫 How to reach me **ram101997@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1fDa-vLW7xO3HZPJju7AhB5_jH5YG5YKV/view?usp=sharing)
+- 📄 Know about my experiences [My Resume]()
 
 ### What are my featured projects:question::rocket:
-<code>[100DaysOfCode](https://github.com/chandrikadeb7/100DaysOfCode)</code>:hourglass:     
-<code>[Face Mask Detection](https://github.com/chandrikadeb7/Face-Mask-Detection)</code>:mask:  
-<code>[GirlScript Twitter Bot](https://github.com/chandrikadeb7/Girlscript-Twitter-Bot)</code>:robot:     
+<code>[Google Store Analytics](https://github.com/wildrider09/Google-Analytics-Revenue-Preditcion)</code>:hourglass:     
+<code>[Malware Prediction](https://github.com/wildrider09/Malware_Prediction)</code>:mask:  
+<code>[Online Bidding Platform](https://github.com/wildrider09/Bidding-Platform)</code>:robot:     
+<code>[Open Source Contribution] (https://github.com/wildrider09/Document_validator-MOSIP)</code>:tree:
 
 ### Wanna see my blogs:question::fire:
-<!-- BLOG-POST-LIST:START -->
-- [Python Roadmap to follow in 2021](https://medium.com/analytics-vidhya/python-roadmap-to-follow-in-2021-1f49715468ca?source=rss-5c8e98221095------2)
-- [The One-Stop Web Development Roadmap to follow in 2021](https://dev.to/chandrikadeb7/the-one-stop-web-development-roadmap-to-follow-in-2021-4oa4)
-- [How to make a Twitterbot?](https://dev.to/chandrikadeb7/how-to-make-a-twitterbot-3p13)
-- [Creativity vs Innovation —The silver linings of the pandemic year 2020](https://medium.com/agileinsider/creativity-vs-innovation-the-silver-linings-of-the-pandemic-year-2020-13c159683cb7?source=rss-5c8e98221095------2)
-- [Pure CSS Art: From Zero to Hero](https://medium.com/analytics-vidhya/pure-css-art-from-zero-to-hero-b15d11f96702?source=rss-5c8e98221095------2)
-<!-- BLOG-POST-LIST:END -->
 
 ### What can I help with:question::cyclone:
-<code>git commit -m "Pretty much nerd stuffs and Math!"</code> :grin:
+<code"Pretty much nerd stuffs and Math!"</code> :grin:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/chandrikadeb7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="chandrikadeb7" height="30" width="40" /></a>
-<a href="https://dev.to/chandrikadeb7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="chandrikadeb7" height="30" width="40" /></a>
-<a href="https://twitter.com/chandrikadeb7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="chandrikadeb7" height="30" width="40" /></a>
-<a href="https://medium.com/@chandrikadeb7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@chandrikadeb7" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCZOZbzPYGYQV80BtVMqsRmg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="codeher" height="30" width="40" /></a>
+<a href="https://fb.com/heatx09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
