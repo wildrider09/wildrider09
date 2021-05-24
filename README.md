@@ -42,24 +42,18 @@
 <p><a href="https://www.buymeacoffee.com/wildrider09"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="" /></a></p>
 
 
+## &#x1f4c8; GitHub Stats
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=wildrider09&show_icons=true&locale=en" alt="" /></p>
 
 
-
-
-## &#x1f4c8; GitHub Stats
-
-
-<a href="https://github.com/av1shek/av1shek">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=av1shek&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
-<a href="https://github.com/av1shek/av1shek">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=av1shek&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/wildrider09/wildrider09">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildrider09&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <br/>
 
 **Github Streak:**
 <p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=av1shek">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=wildrider09">
 </p>
 
