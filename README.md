@@ -54,6 +54,6 @@
 
 **Github Streak:**
 <p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=shrutiban">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=wildrider09">
 </p>
 
