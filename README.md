@@ -29,9 +29,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/heatx09" target="blank"><img align="center" src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"> alt="" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/heatx09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://twitter.com/heatx09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://fb.com/heatx09" target="blank"><img align="center" src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/facebook-fill.svg" alt="" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/heatx09" target="blank"><img align="center" src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg" alt="" height="30" width="40" /></a>
+<a href="https://twitter.com/heatx09" target="blank"><img align="center" src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg" alt="" height="30" width="40" /></a>
 
 </p>
 
