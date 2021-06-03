@@ -1,7 +1,12 @@
 ## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 <h1 align="center">Hi 👋, I'm Abhishek Garg</h1>
-<h3 align="center">"I'm a student at IIIT Bangalore pursuing a master's degree."</h3>
+<h3 align="center">"I'm a student at IIIT Bangalore pursuing a master's degree."
+<!-- Place this tag where you want the button to render. -->
+<GitHubButton href="https://github.com/wildrider09" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" aria-label="Follow @wildrider09 on GitHub">Follow @wildrider09</GitHubButton>
+
+
+</h3>
 
 ### Wanna stalk my website:question::point_right: <a href="https://wildrider09.github.io" target="_blank" rel="noopener noreferrer">Click HERE </a> :sparkles:
 
