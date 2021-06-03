@@ -2,15 +2,12 @@
 
 <h1 align="center">Hi 👋, I'm Abhishek Garg</h1>
 <h3 align="center">"I'm a student at IIIT Bangalore pursuing a master's degree."
-<!-- Place this tag where you want the button to render. -->
-<GitHubButton href="https://github.com/wildrider09" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" aria-label="Follow @wildrider09 on GitHub">Follow @wildrider09</GitHubButton>
-
-
 </h3>
 
 ### Wanna stalk my website:question::point_right: <a href="https://wildrider09.github.io" target="_blank" rel="noopener noreferrer">Click HERE </a> :sparkles:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wildrider09&label=Profile%20views&color=0e75b6&style=flat" alt="wildrider09" /> </p>
+<GitHubButton href="https://github.com/wildrider09" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" aria-label="Follow @wildrider09 on GitHub">Follow @wildrider09</GitHubButton>
 
 - 🌱 I’m currently learning about **Full stack Dev-ops and Machine Learning**
 
