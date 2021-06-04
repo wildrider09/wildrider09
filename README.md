@@ -11,6 +11,8 @@ import GitHubButton from 'react-github-btn'
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wildrider09&label=Profile%20views&color=0e75b6&style=flat" alt="wildrider09" /> </p>
 <GitHubButton href="https://github.com/wildrider09" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" aria-label="Follow @wildrider09 on GitHub">Follow @wildrider09</GitHubButton>
 
+<img align="right" height="250" width="400" src="https://media3.giphy.com/media/p4NLw3I4U0idi/giphy.gif?cid=ecf05e47u651twctsezhzbsw8myzchukcjxu7oeakq3ujf17&rid=giphy.gif" />
+<br>
 - 🌱 I’m currently learning about **Full stack Dev-ops and Machine Learning**
 
 - 👨‍💻 All about myself is available at [My Website](https://wildrider09.github.io/)
