@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey Profile Visitor👋, I'm Abhishek Garg</h1>
-<h3 align="center">"I'm a student at IIIT Bangalore pursuing a master's degree."
+<h3 align="center">I'm a student at IIIT Bangalore pursuing a master's degree.
 </h3>
 
 ### Wanna stalk my website:question::point_right: <a href="https://wildrider09.github.io" target="_blank" rel="noopener noreferrer">Click HERE </a> :sparkles:
@@ -19,6 +19,8 @@
 - 📫 How to reach me **ram101997@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/drive/folders/12zvMDZoFN92A7rVnzZdWpKu04vgFXFKE?usp=sharing)
+
+-    GFG handle.[abhishekgarg](https://auth.geeksforgeeks.org/user/abhishekgarg15/practice/)
 
 ### What are my featured projects:question::rocket:
 <code>[Google Store Analytics](https://github.com/wildrider09/Google-Analytics-Revenue-Preditcion)</code>:hourglass:     
