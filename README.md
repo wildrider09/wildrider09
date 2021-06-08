@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/drive/folders/12zvMDZoFN92A7rVnzZdWpKu04vgFXFKE?usp=sharing)
 
--    GFG handle.[abhishekgarg](https://auth.geeksforgeeks.org/user/abhishekgarg15/practice/)
+- 🖥️ Coding Profile - GFG handle [abhishekgarg15](https://auth.geeksforgeeks.org/user/abhishekgarg15/practice/)
 
 ### What are my featured projects:question::rocket:
 <code>[Google Store Analytics](https://github.com/wildrider09/Google-Analytics-Revenue-Preditcion)</code>:hourglass:     
