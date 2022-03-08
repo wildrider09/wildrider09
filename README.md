@@ -7,7 +7,7 @@
 
 ### Wanna stalk my website:question: <a href="https://wildrider09.github.io" target="_blank" rel="noopener noreferrer">Click HERE </a> 
 ### LinkedIn Profile - Scroll to LinkedIn <a href="https://www.linkedin.com/in/heatx09" target="_blank" rel="noopener noreferrer">Click HERE </a>
-### My Coding Profile - GFG platform <a href="https://auth.geeksforgeeks.org/user/abhishekgarg15" target="_blank" rel="noopener noreferrer">Click HERE </a> 
+### My Coding Profile - GFG platform <a href="https://auth.geeksforgeeks.org/user/abhishekgarg15/practice/" target="_blank" rel="noopener noreferrer">Click HERE </a> 
 
 <br>
 I’m currently learning about **Full stack Dev-ops and Machine Learning**
