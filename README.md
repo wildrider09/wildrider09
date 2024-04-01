@@ -14,9 +14,9 @@ I’m currently learning about **Full stack Dev-ops and Machine Learning**
 
 - 👨‍💻 All about myself is available at [My Website](https://wildrider09.github.io/)
 
-- 💬 Ask me about **Java, Python, EDA, ML**
+- 💬 Ask me about SDLC, Java, Frameworks, etc.
 
-- 📫 How to reach me **ram101997@gmail.com**
+- 📫 How to reach me **abhisgg1997@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/drive/folders/12zvMDZoFN92A7rVnzZdWpKu04vgFXFKE?usp=sharing)
 
