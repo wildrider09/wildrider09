@@ -156,8 +156,8 @@
 
 | Degree | Institution | Year | Score |
 |---|---|---|---|
-| 🎓 **M.Tech (CSE)** | IIIT Bangalore | 2022 | **3.45/4.00** |
-| 🎓 **B.Tech (CSE)** | DIT University | 2019 | **8.85/10.00** |
+| 🎓 **Master of Technology (Computer Science & Engineering)** | IIIT Bangalore | 2022 | **3.45/4.00** |
+| 🎓 **Bachelor of Technology (Computer Science & Engineering)** | DIT University | 2019 | **8.85/10.00** |
 
 ---
 
