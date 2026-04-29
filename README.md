@@ -1,58 +1,211 @@
-<h1 align="center">Hey Profile Visitor👋, I'm Abhishek Garg</h1>
-<h3 align="center">Software Development Engineer at Amazon | Cloud & Backend | IoT | Distributed Systems</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7B93E&center=true&vCenter=true&random=false&width=600&lines=Hey+Profile+Visitor+%F0%9F%91%8B;I'm+Abhishek+Garg;SDE+%40+Amazon;Cloud+%7C+Backend+%7C+IoT+%7C+GenAI" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/heatx09/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://medium.com/@abhisgg1997"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://www.geeksforgeeks.org/profile/abhishekgarg15"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG"/></a>
+  <a href="https://wildrider09.github.io/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
+  <a href="mailto:abhisgg1997@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wildrider09&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views" />
+  <a href="https://drive.google.com/file/d/1Sa77xIlrXDnllZt2gxo6hkFiKvzi12mk/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-Download-brightgreen?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/></a>
+</p>
+
 <br>
+
 <img align="right" height="250" width="400" src="https://media3.giphy.com/media/p4NLw3I4U0idi/giphy.gif?cid=ecf05e47u651twctsezhzbsw8myzchukcjxu7oeakq3ujf17&rid=giphy.gif" />
-
-### 🔗 Quick Links
-- 🌐 [Website](https://wildrider09.github.io/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/heatx09/)
-- ✍️ [Medium](https://medium.com/@abhisgg1997)
-- 💻 [GeeksforGeeks](https://www.geeksforgeeks.org/profile/abhishekgarg15)
-- 📄 [Resume](https://drive.google.com/file/d/1Sa77xIlrXDnllZt2gxo6hkFiKvzi12mk/view?usp=sharing)
-- 📫 **abhisgg1997@gmail.com**
-
-<br>
-
----
 
 ## 👨‍💻 About Me
 
-Focused on cloud computing and backend development. Delivered scalable solutions at Amazon with expertise in AWS, microservices, and observability. Drove operational improvements, cost efficiencies, security, and data-driven implementations across cross-functional teams in high-scale production environments — shaping system design, performance optimization, reliability, and architecture.
+> Focused on cloud computing and backend development. Delivered scalable solutions at Amazon with expertise in AWS, microservices, and observability.
 
-- 💬 Ask me about **System Design, Java, Spring Boot, AWS, Distributed Systems, DevOps**
-- 🌱 Currently exploring **GenAI, Prompt Engineering, AI-assisted Development**
+- 🔭 **SDE at Amazon** — building IoT cloud platforms for Alexa smart home
+- 💬 Ask me about **System Design, Java, AWS, Distributed Systems**
+- 🌱 Exploring **GenAI, Prompt Engineering, AI-assisted Dev**
+- ⚡ Fun fact: **GATE 2020 AIR 1014** (98.96 percentile)
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-| | |
-|---|---|
-| **Languages** | Java, Python, C++, SQL |
-| **Frameworks** | Spring Boot, Guice, JUnit, Mockito, Lombok, GraphQL |
-| **AWS & Cloud** | EC2, ECS, S3, Lambda, SQS, SNS, Step Functions, CloudWatch, API Gateway, Docker, Jenkins, CI/CD |
-| **Databases & Concepts** | DynamoDB, MySQL, PostgreSQL, MongoDB, Distributed Systems, Microservices, REST APIs, Event-Driven Architecture |
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
 
 ---
 
 ## 💼 Experience
 
-### Amazon — Software Development Engineer | July 2022 - Present
+<details>
+<summary><b>🟠 Amazon — Software Development Engineer | July 2022 - Present</b></summary>
+<br>
 
 **Alexa Connect Kit Cloud & Snyder Team** — IoT cloud platform for Alexa smart home devices
-- Orchestrated ticket load reduction achieving **50% cut** in sev-2/3/4 tickets (~40/week → ~20)
-- Redesigned server-side caching strategy cutting registry service calls from **1000+ TPS** to optimal levels
-- Upgraded event ingestion service handling **1B+ events** across distributed microservices
-- Pioneered automated partner notification for **~6,000 product accounts**
-- Built CDK infrastructure; root-caused **$12K/month** ECS Fargate misconfiguration
-- Adopted AI-assisted development (Claude, Amazon Q, Kiro) accelerating dev cycles by **30%**
 
-**Private Brands Central (PBC)** — Product lifecycle management for Amazon private labels
-- Engineered Artwork Library using DocumentDB, OpenSearch, Step Functions — **$500K/year savings**
-- Streamlined bulk task reassignment saving **730 hours/year** and **525K clicks**
+| Impact | Details |
+|---|---|
+| 📉 **50% ticket reduction** | Orchestrated severity-2/3/4 ticket load cut (~40/week → ~20) |
+| ⚡ **1000+ TPS optimized** | Redesigned server-side caching, cutting registry service calls |
+| 🌐 **1B+ events processed** | Upgraded event ingestion across distributed microservices |
+| 📢 **6,000 partners notified** | Pioneered automated notification system with API Gateway |
+| 💰 **$12K/month saved** | Root-caused ECS Fargate misconfiguration |
+| 🤖 **30% faster dev cycles** | Adopted AI-assisted development (Claude, Amazon Q, Kiro) |
 
-### Qualcomm — Software Engineering Intern | Jan 2022 - June 2022
+**Private Brands Central (PBC)** — Product lifecycle management
+
+| Impact | Details |
+|---|---|
+| 💵 **$500K/year savings** | Engineered Artwork Library with DocumentDB, OpenSearch, Step Functions |
+| ⏱️ **730 hours/year saved** | Streamlined bulk task reassignment, saving 525K clicks |
+
+</details>
+
+<details>
+<summary><b>🔵 Qualcomm — Software Engineering Intern | Jan 2022 - June 2022</b></summary>
+<br>
+
 - Fine-tuned backend test automation shortening failure analysis time by **40%** under the AI/ML team
+- Built end-to-end test case generation, faulty commit detection, and nightly build verification
+
+</details>
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+<a href="https://github.com/wildrider09/Google-Analytics-Revenue-Preditcion">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=wildrider09&repo=Google-Analytics-Revenue-Preditcion&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/wildrider09/Document_validator-MOSIP">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=wildrider09&repo=Document_validator-MOSIP&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/wildrider09/Devops_Calculator">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=wildrider09&repo=Devops_Calculator&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/wildrider09/Bidding-Platform">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=wildrider09&repo=Bidding-Platform&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/wildrider09/Malware_Prediction">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=wildrider09&repo=Malware_Prediction&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/wildrider09/AI-Board-Game-Trainer">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=wildrider09&repo=AI-Board-Game-Trainer&theme=radical&hide_border=true" />
+</a>
+</p>
+
+<details>
+<summary><b>📂 All Repositories (20)</b></summary>
+<br>
+
+| # | Project | Tech | Description |
+|---|---|---|---|
+| 1 | [Google-Analytics-Revenue-Prediction](https://github.com/wildrider09/Google-Analytics-Revenue-Preditcion) | Jupyter Notebook | Predict revenue per customer from Google Merchandise Store data for actionable marketing insights |
+| 2 | [Document_validator-MOSIP](https://github.com/wildrider09/Document_validator-MOSIP) | Python | Open-source REST API for identity document verification using OCR (MOSIP platform) ⭐2 |
+| 3 | [Devops_Calculator](https://github.com/wildrider09/Devops_Calculator) | Java | Scientific calculator with full CI/CD pipeline — Jenkins, Docker, Ansible, ELK stack ⭐2 |
+| 4 | [Bidding-Platform](https://github.com/wildrider09/Bidding-Platform) | JavaScript | Online auction platform where users post product ads and others bid to buy |
+| 5 | [Malware_Prediction](https://github.com/wildrider09/Malware_Prediction) | Jupyter Notebook | ML model to predict malware infections on machines using system telemetry data |
+| 6 | [AI-Board-Game-Trainer](https://github.com/wildrider09/AI-Board-Game-Trainer) | C | AI framework to train humans from beginner to expert level in board games interactively |
+| 7 | [Spectrum-Data-Challenge](https://github.com/wildrider09/Spectrum-Data-Challenge) | Jupyter Notebook | Analysis of DotEcon's spectrum auction data (1994–2020) for Australia & India 3G allocations |
+| 8 | [Summer-of-Coding---Placements](https://github.com/wildrider09/Summer-of-Coding---Placements) | Java | DSA and competitive programming solutions for placement preparation |
+| 9 | [Railway-reservation](https://github.com/wildrider09/Railway-reservation) | Java | Railway booking app — ticket booking, seat availability, preferred seats, and reservations |
+| 10 | [DLeave-](https://github.com/wildrider09/DLeave-) | Java | Mobile leave management app — request, approve, and track leaves on the go |
+| 11 | [RolBikes-app](https://github.com/wildrider09/RolBikes-app) | Java | Bike rental system for travelers to rent two-wheelers hassle-free |
+| 12 | [Bookshare-App](https://github.com/wildrider09/Bookshare-App) | Java | Buy and sell used books online with user verification and location tracking |
+| 13 | [GetThrough_App](https://github.com/wildrider09/GetThrough_App) | Java | Utility application built with Java |
+| 14 | [Student-Fee-Portal](https://github.com/wildrider09/Student-Fee-Portal) | HTML | Student fee management portal for tracking and processing payments |
+| 15 | [ByPass-Software-Testing](https://github.com/wildrider09/ByPass-Software-Testing) | Java | Software testing bypass techniques and automation |
+| 16 | [Permutation-Graph-Survey-Paper](https://github.com/wildrider09/Permutation-Graph-Survey-Paper) | — | Survey paper on permutation graphs — geometric and algebraic representations |
+| 17 | [wildrider09.github.io](https://github.com/wildrider09/wildrider09.github.io) | CSS | Personal portfolio website |
+| 18 | [Social-Eye-1](https://github.com/wildrider09/Social-Eye-1) | JavaScript | Social media analytics tool (forked) |
+| 19 | [100-Days-Of-ML-Code](https://github.com/wildrider09/100-Days-Of-ML-Code) | — | 100 Days of ML coding challenge (forked) |
+| 20 | [wildrider09](https://github.com/wildrider09/wildrider09) | — | GitHub profile README |
+
+</details>
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Year | Score |
+|---|---|---|---|
+| 🎓 **M.Tech (CSE)** | IIIT Bangalore | 2022 | **3.45/4.00** |
+| 🎓 **B.Tech (CSE)** | DIT University | 2019 | **8.85/10.00** |
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CRs_Shipped-346-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Packages-89-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Lines_of_Code-68K+-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tickets_Resolved-200+-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Interviews-40+-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GATE_2020-AIR_1014_(98.96%25)-gold?style=for-the-badge" />
+</p>
+
+- 🏅 **Bar Raiser eligible** — Conducted 40+ interviews; mentored 2 interns to full-time roles
+- 🚒 **On-call champion** — Resolved 200+ production tickets across cloud services
+- 🎯 **GATE 2020 (CS)** — All India Rank 1014 out of 97,481 candidates
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=wildrider09&show_icons=true&theme=radical&hide_border=true" alt="github stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=wildrider09&theme=radical&hide_border=true" alt="github streak" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildrider09&layout=compact&theme=radical&hide_border=true" alt="top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wildrider09&theme=redical&hide_border=true" alt="contribution graph" />
+</p>
+
+---
+
+<h3 align="center">🐍 Contribution Snake</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wildrider09/wildrider09/output/github-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/wildrider09"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="buymeacoffee" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
