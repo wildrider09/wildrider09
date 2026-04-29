@@ -18,7 +18,7 @@ I’m currently learning about **Full stack Dev-ops and Machine Learning**
 
 - 📫 How to reach me **abhisgg1997@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/drive/folders/12zvMDZoFN92A7rVnzZdWpKu04vgFXFKE?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Sa77xIlrXDnllZt2gxo6hkFiKvzi12mk/view?usp=sharing)
 
 - 🖥️ Coding Profile - GFG handle [abhishekgarg15](https://auth.geeksforgeeks.org/user/abhishekgarg15/practice/)
 
