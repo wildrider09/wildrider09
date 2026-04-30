@@ -17,18 +17,18 @@
 
 <br>
 
-<img align="right" height="250" width="400" src="https://media3.giphy.com/media/p4NLw3I4U0idi/giphy.gif?cid=ecf05e47u651twctsezhzbsw8myzchukcjxu7oeakq3ujf17&rid=giphy.gif" />
+<img align="right" height="250" width="375" src="https://media3.giphy.com/media/p4NLw3I4U0idi/giphy.gif?cid=ecf05e47u651twctsezhzbsw8myzchukcjxu7oeakq3ujf17&rid=giphy.gif" />
 
 ## 👨‍💻 About Me
 
-> Focused on cloud computing, backend development, and system design at Amazon. Architected scalable solutions handling 1M+ devices and 1B+ events across distributed microservices, driving architecture decisions around trade-offs, cost efficiency, and business impact. Expertise in AWS, problem decomposition, and scalability thinking — from designing automated resource management saving $250K/year to building digital asset platforms serving 10,000+ assets. Delivered operational improvements, security enhancements, and data-driven implementations across cross-functional teams in high-scale production environments, shaping performance optimization, reliability, and architecture.
-
-- 🔭 **SDE at Amazon** — building IoT cloud platforms for Alexa smart home
+- 🔭 **SDE at Amazon** — IoT cloud platforms for Alexa smart home
 - 💬 Ask me about **System Design, Java, AWS, Distributed Systems**
 - 🌱 Exploring **GenAI, Prompt Engineering, AI-assisted Dev**
 - ⚡ Fun fact: **GATE 2020 AIR 1014** (98.96 percentile)
 
-<br clear="right"/>
+<br clear="both"/>
+
+> Focused on cloud computing, backend development, and system design at Amazon. Architected scalable solutions handling 1M+ devices and 1B+ events across distributed microservices, driving architecture decisions around trade-offs, cost efficiency, and business impact. Expertise in AWS, problem decomposition, and scalability thinking — from designing automated resource management saving $250K/year to building digital asset platforms serving 10,000+ assets. Delivered operational improvements, security enhancements, and data-driven implementations across cross-functional teams in high-scale production environments, shaping performance optimization, reliability, and architecture.
 
 ---
 
