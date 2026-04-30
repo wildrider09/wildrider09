@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wildrider09&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views" />
-  <a href="https://drive.google.com/file/d/1bIQZJygQmMN2UElKvBzwgKhoXccWCBAN/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-Download-brightgreen?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/></a>
+  <a href="https://drive.google.com/file/d/1Sa77xIlrXDnllZt2gxo6hkFiKvzi12mk/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-Download-brightgreen?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/></a>
 </p>
 
 <br>
@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-> Focused on cloud computing and backend development. Delivered scalable solutions at Amazon with expertise in AWS, microservices, and observability.
+> Focused on cloud computing, backend development, and system design at Amazon. Architected scalable solutions handling 1M+ devices and 1B+ events across distributed microservices, driving architecture decisions around trade-offs, cost efficiency, and business impact. Expertise in AWS, problem decomposition, and scalability thinking — from designing automated resource management saving $250K/year to building digital asset platforms serving 10,000+ assets. Delivered operational improvements, security enhancements, and data-driven implementations across cross-functional teams in high-scale production environments, shaping performance optimization, reliability, and architecture.
 
 - 🔭 **SDE at Amazon** — building IoT cloud platforms for Alexa smart home
 - 💬 Ask me about **System Design, Java, AWS, Distributed Systems**
