@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wildrider09&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views" />
-  <a href="https://drive.google.com/file/d/1Sa77xIlrXDnllZt2gxo6hkFiKvzi12mk/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-Download-brightgreen?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/></a>
+  <a href="https://drive.google.com/file/d/1uvASheJKIpZksqRDoM-ix_n-YgEzhwzr/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-Download-brightgreen?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/></a>
 </p>
 
 <br>
@@ -197,9 +197,6 @@
 ---
 
 <h3 align="center">🐍 Contribution Snake</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/wildrider09/wildrider09/output/github-snake.svg" alt="snake animation" />
-</p>
 
 ---
 
