@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wildrider09&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views" />
-  <a href="https://drive.google.com/file/d/1YxTIWJ52v2cZBf-fA3Ab_sHjjdLc8KbL/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-Download-brightgreen?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/></a>
+  <a href="https://drive.google.com/file/d/1rApDGamqGtVtYJ7sUnqAMPwY50fuK5r-/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-Download-brightgreen?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/></a>
 </p>
 
 <br>
