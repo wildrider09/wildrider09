@@ -201,7 +201,7 @@
 ---
 
 <p align="center">
- [![Buy Me A Chai](https://buymeachai.ezee.li/assets/images/buymeachai-button.png)](https://buymeachai.ezee.li/wildrider09)
+<a href="https://buymeachai.ezee.li/wildrider09" target="_blank" rel="noopener noreferrer"><img src="https://buymeachai.ezee.li/assets/images/buymeachai-button.png" alt="Buy Me A Chai" width="200"></a>
 </p>
 
 <p align="center">
