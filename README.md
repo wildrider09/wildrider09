@@ -102,25 +102,25 @@
 ## 🚀 Featured Projects
 
 <p align="center">
-<a href="https://github.com/wildrider09/Google-Analytics-Revenue-Preditcion">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=wildrider09&repo=Google-Analytics-Revenue-Preditcion&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/wildrider09/Document_validator-MOSIP">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=wildrider09&repo=Document_validator-MOSIP&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/wildrider09/Devops_Calculator">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=wildrider09&repo=Devops_Calculator&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/wildrider09/Bidding-Platform">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=wildrider09&repo=Bidding-Platform&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/wildrider09/Malware_Prediction">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=wildrider09&repo=Malware_Prediction&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/wildrider09/AI-Board-Game-Trainer">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=wildrider09&repo=AI-Board-Game-Trainer&theme=radical&hide_border=true" />
-</a>
-</p>
+  <a href="https://github.com/wildrider09/Document_validator-MOSIP">
+    <img src="https://img.shields.io/badge/🔬_Document_Validator-MOSIP_(Open_Source)-red?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/wildrider09/Bidding-Platform">
+    <img src="https://img.shields.io/badge/💰_Bidding_Platform-Java_Web_App-blue?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/wildrider09/Devops_Calculator">
+    <img src="https://img.shields.io/badge/🧮_DevOps_Calculator-CI/CD_Pipeline-green?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/wildrider09/Google-Analytics-Revenue-Preditcion">
+    <img src="https://img.shields.io/badge/📊_Google_Analytics-Revenue_Prediction-orange?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/wildrider09/Malware_Prediction">
+    <img src="https://img.shields.io/badge/🛡️_Malware_Prediction-ML_Classification-purple?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/wildrider09/AI-Board-Game-Trainer">
+    <img src="https://img.shields.io/badge/🎮_AI_Board_Game-Trainer-yellow?style=for-the-badge" />
+  </a>
+  </p>
 
 <details>
 <summary><b>📂 All Repositories (20)</b></summary>
