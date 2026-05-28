@@ -201,7 +201,7 @@
 ---
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/wildrider09"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="buymeacoffee" /></a>
+ [![Buy Me A Chai](https://buymeachai.ezee.li/assets/images/buymeachai-button.png)](https://buymeachai.ezee.li/wildrider09)
 </p>
 
 <p align="center">
