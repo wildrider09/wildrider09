@@ -181,19 +181,24 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=wildrider09&show_icons=true&theme=radical&hide_border=true" alt="github stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=wildrider09&theme=radical&hide_border=true" alt="github streak" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildrider09&layout=compact&theme=radical&hide_border=true" alt="top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wildrider09&theme=redical&hide_border=true" alt="contribution graph" />
-</p>
-
+  
+  <p align="center">
+    <img width="48%" src="https://streak-stats.demolab.com/?user=wildrider09&theme=radical&hide_border=true" alt="github
+  streak" />
+  </p>
+  
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wildrider09&theme=radical"
+  alt="contribution graph" />
+  </p>
+  
+  <p align="center">
+    <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wildrider09&theme=radical"
+   alt="stats" />
+    <img width="48%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wildrider09&theme=radical"
+  alt="top languages" />
+  </p>
 ---
 
 <h3 align="center">🐍 Contribution Snake</h3>
